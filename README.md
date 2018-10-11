@@ -82,19 +82,19 @@ prompt$ source activate ds2
     * Click **'launch'** of jupyter notebook
   * If you installed on linux, type *'jupyter notebook'* in the prompt. 
 
-### Contents
+### Contents of ISLR Folder
 
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%206.ipynb'>Chapter 6 - Linear Model Selection and Regularization</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%207.ipynb'>Chapter 7 - Moving Beyond Linearity</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%208.ipynb'>Chapter 8 - Tree-Based Methods</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Support Vector Machines</A><BR>
-<A href='http://nbviewer.ipython.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Unsupervised Learning</A><P>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Simulate.expected.misclassification.rate.ipynb'>Extra: Misclassification rate simulation - SVM and Logistic Regression</A><P>
+Chapter 3 - Linear Regression<BR>
+Chapter 4 - Classification<BR>
+Chapter 5 - Resampling Methods<BR>
+Chapter 6 - Linear Model Selection and Regularization<BR>
+Chapter 7 - Moving Beyond Linearity<BR>
+Chapter 8 - Tree-Based Methods<BR>
+Chapter 9 - Support Vector Machines<BR>
+Chapter 10 - Unsupervised Learning<P>
+
 This great book gives a thorough introduction to the field of Statistical/Machine Learning. The book is available for download (see link below), but I think this is one of those books that is definitely worth buying. The book contains sections with applications in R based on public datasets available for download or which are part of the <A target="_blank" href="https://cran.r-project.org/web/packages/ISLR/index.html">R-package ISLR</A>. Furthermore, there is a Stanford University online course based on this book and taught by the authors (See <A target="_blank" href='https://lagunita.stanford.edu/courses/'>course catalogue</A> for current schedule).<P>
 
 #### References: 
