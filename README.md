@@ -1,20 +1,24 @@
 
-# 삼성 DS<sup>2 기계학습 과정 실습 자료실
-## 자료 다운로드 방법 (**github 초보자 대상**)
+# 서울대-삼성 DS<sup>2</sup> 기계학습 과정 실습 자료실
+
+## 자료 다운로드 (**github 초보자 대상**)
   1. 화면 우측 상단의 녹색 'Clone or download' 버튼 클릭
   2. Download ZIP 클릭
   3. s2-ds2-master.zip 파일 압축 해제
   4. 압축 해제한 's2-ds2' 폴더를 '내 PC > 문서' 경로로 이동
 
-  * *상세한 설명은 설치 가이드 참조*
+  * *상세한 설명은 설치_가이드.pdf 참조*
+
 
 ---------------
 
-## Machine Learning Coursework Materials for Samsung DS<sup>2 School</sup> 
+
+
+## Machine Learning Coursework Materials for Samsung DS<sup>2</sup> School 
 
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
-## Prerequisites
+### Prerequisites
   * [Anaconda](https://www.anaconda.com/download/)
   * [Graphviz](https://graphviz.gitlab.io/download/)
     * [For windows](https://graphviz.gitlab.io/_pages/Download/windows/graphviz-2.38.msi)
@@ -22,9 +26,9 @@ This repository contains Python code for a selection of tables, figures and LAB 
       * See [how to add PATH](http://inforyou.tistory.com/20)
       * *Rebooting may be required to affect the path update.*
 
-## Installation
+### Installation
 
-### For windows 10 users
+#### For windows 10 users
  * With anaconda navigator (GUI application)
    * Launch Anaconda navigator with 'Adiminister' privilege.
    * Click 'Environments' tab in the left panel.
@@ -51,7 +55,7 @@ This repository contains Python code for a selection of tables, figures and LAB 
 (ds2)prompt$ pip install pydot
 ```   
 
-### For linux users
+#### For linux users
    * Create a new conda environment as follow (in case of the environment name is ds2):
 ```
 prompt$ conda create -n ds2 python=3.6 pandas numpy scipy scikit-learn jupyter statsmodels patsy matplotlib seaborn xlrd
@@ -68,17 +72,17 @@ prompt$ source activate ds2
 (ds2)prompt$ pip install pydot
 ```
 
-## Download repository
+### Download repository
   * You can download or clone the jupyter notebooks from github (*To Be Updated for students*)
   * I recommend to save or clone files under *Documents* folder.
   
-## Launch jupyter notebook
+### Launch jupyter notebook
   * If you installed with anaconda navigator, 
     * Go to Home menu and select your environment.
     * Click **'launch'** of jupyter notebook
   * If you installed on linux, type *'jupyter notebook'* in the prompt. 
 
-## Contents
+### Contents
 
 
 <IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
